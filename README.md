@@ -1,0 +1,2 @@
+# Blinking-AI
+DJango
